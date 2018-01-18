@@ -1,2 +1,2 @@
-# mundial_russia-2018
+# mundial_russia_2018
 Todos los eventos del mundial
